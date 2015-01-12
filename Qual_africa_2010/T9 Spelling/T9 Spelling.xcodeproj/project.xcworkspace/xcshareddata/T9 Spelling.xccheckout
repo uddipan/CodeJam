@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>24C934EF-41A7-4ED5-958F-1F5217D5375F</string>
+	<key>IDESourceControlProjectName</key>
+	<string>T9 Spelling</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>3899FF6C4115618456AC44F82D04B3835CFD1648</key>
+		<string>https://github.com/uddipan/CodeJam.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Qual_africa_2010/T9 Spelling/T9 Spelling.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>3899FF6C4115618456AC44F82D04B3835CFD1648</key>
+		<string>../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/uddipan/CodeJam.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>3899FF6C4115618456AC44F82D04B3835CFD1648</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>3899FF6C4115618456AC44F82D04B3835CFD1648</string>
+			<key>IDESourceControlWCCName</key>
+			<string>CodeJam</string>
+		</dict>
+	</array>
+</dict>
+</plist>
