@@ -12,9 +12,9 @@
 
 using namespace std;
 
-string GenericName = "/Users/uddipan/GitHub/GCodejam/";
+string GenericName = "/GitHub/CodeJam";
 
-string TestName = "/Qualification Round Africa 2010/Store Credit/Store Credit/";
+string TestName = "/Qual_africa_2010/Reverse Words/Reverse Words/";
 
 int main(int argc, const char * argv[]) {
     string InFileName, OutFileName;
@@ -27,7 +27,7 @@ int main(int argc, const char * argv[]) {
     OutFileName = GenericName + TestName + "output-large.out";
 #endif
     
-
+    
     string line;
     ifstream infile ( InFileName );
     ofstream outfile ( OutFileName );
@@ -35,17 +35,18 @@ int main(int argc, const char * argv[]) {
     if (infile.is_open())
     {
         infile >> line;
-    
+        
         
         if (outfile.is_open())
         {
-            outfile << "Case #" << i+1 << ": " << Item1 << " " << Item2 <<"\n";
+            //outfile << "Case #" << i+1 << ": " << Item1 << " " << Item2 <<"\n";
         }
-            
-          
+        
+        
         infile.close();
         outfile.close();
     }
-
+    
     return 0;
 }
+
