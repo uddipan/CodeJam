@@ -5,6 +5,7 @@
 #include <algorithm>
 #include <stack>
 #include <queue>
+#include <map>
 
 // MACRO for selecting the small/large input. Comment out for large input.
 #define SmallLargeInput
