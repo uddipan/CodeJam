@@ -1,3 +1,4 @@
+
 #include <iostream>
 #include <fstream>
 #include <string>
@@ -6,6 +7,7 @@
 #include <stack>
 #include <queue>
 #include <map>
+#include <cmath>
 
 // MACRO for selecting the small/large input. Comment out for large input.
 #define SmallLargeInput
@@ -15,7 +17,7 @@ using namespace std;
 
 string GenericName = "/GitHub/CodeJam";
 
-string TestName = "/Qual_africa_2010/Reverse Words/Reverse Words/";
+string TestName = "/Practice Problems/Alien Numbers/Alien Numbers/";
 
 int main(int argc, const char * argv[]) {
     string InFileName, OutFileName;
